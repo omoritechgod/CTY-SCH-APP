@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "bolt-expo-nativewind",
+    "name": "cty-sch-app",
     "slug": "cty-sch-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -30,6 +30,9 @@
         "projectId": "a7006434-b361-4e9d-919b-cf440aa18d63"
       }
     },
-    "owner": "tguniverse"
+    "owner": "tguniverse",
+    "android": {
+      "package": "com.tguniverse.ctyschapp"
+    }
   }
 }
